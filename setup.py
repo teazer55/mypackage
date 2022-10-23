@@ -10,7 +10,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https:github.com/teazer55/test_package',
+    url='https:github.com/thabo-diale/test_package',
     author='Thabo Diale',
     author_email='thabod50@gmail.com'
 
